@@ -1,19 +1,42 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Solutions Engineer
+- company: Symbl.ai
+  position: Solutions Engineer
+  duration: Jul, 2021 &mdash; Jun, 2023
+  summary: Development and maintenance of APIs for NLP Classification & Summarisation models, Assisting Data Science Research team for building and evaluating new model APIs	
+  <ul class="resume-item-list">
+    <li>Designed novel tasks to benchmark Conversation Understanding as an emergent ability of Large Language Models with the Data Science</li>
+    <li>Built Human Feedback Loop for Reinforcement Learning Pipeline to integrate feedback from beta usersof in-house LLM</li>
+    <li>Developed Automatic Speech Recognition Benchmarking Automation Framework to evaluate multiple models and aide Product Developmen</li>
+    <li>Corresponded with customers about new research and product features, problem-solving</li>
+    <li>Created written and video use-case guides, tutorials for developers building with Symbl</li>
+  </ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Product Analyst Intern
+- company: Symbl.ai
+  position: Product Analyst Intern
+  duration: Jun, 2021 &mdash; Jul, 2021
+  summary: Analyzed the life cycle of enterprise customers from start to end in order to produce a handbook for their product onboarding
 
+# Computer Engineering Interny
+- company: AlgoAsylum
+  position: Computer Engineering Intern
+  duration:  May, 2020 &mdash; Apr, 2021
+  summary:  Project: ‘IoT System for Air Pollution Monitoring with Analysis of Sensor Calibration Algorithms’
+<ul>
+  <li>Surveyed state-of-the-art computational methods for improving accuracy of low-cost gas sensors and wrote a report on the same</li>
+  <li>Implemented and analyzed statistical models in Python for air pollutant sensor calibration</li>
+  <li>Engineered a low-cost RaspberryPi air pollution monitoring system with Azure and Google Cloud Storage which reduced device cost by 40% (prototype)</li>
+</ul>
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Content Writing Intern
+- company: Symbl.ai
+  position: Content Writing Intern
+  duration:  Dec, 2019  &mdash; Mar, 2019
+  summary: Researched and published developer-friendly blogs on the company's internal research, product applications and conceptual pieces on various topics in Data Science, Natural Language Processing
+
+# Web Development Intern
+- company: Metta Social (previously Meraklis Technologies)
+  position: Web Development Intern
+  duration:  Jun, 2019  &mdash; Aug, 2019
+  summary: Designed & developed an Online Bookstore website with Flask framework (Python), MySQL backend in 6 weeks
