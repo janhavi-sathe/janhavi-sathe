@@ -1,12 +1,9 @@
 # Janhavi Sathe
 ## 💡 About me
-Hello! I am Janhavi (jaan-huh-vee), I graduated from the Masters in Computer Science program at Rice University in December 2024. Prior to my Masters, I was working as a Solutions Engineer for 2 years at Symbl.ai, a Natural Language Processing (NLP) company. 
-
-The focus of my Masters has been deep learning foundation models with a minor in high performance computing. I am a generalist, and have hands-on experience with all types of models from statistical machine learning models to graphical, multi-modal models and reinforcement learning. I've had the opportunity to implement my learnings in industry projects for CNPC (Materials R&D), NASA (Hardware-constrained spacecrafts) and in Kaggle Competitions. 
-
-Apart from this, I also take a keen interest in leadership & sharing nuggets of my Indian culture. I served as the President of a graduate student club, "Indian Students at Rice", where I led a team of 10 in organizing diverse cultural events which see an attendance between 100 to 700 people, depending on the occasion. 
-
-I aspire to bring curiosity, thoughtfulness and integrity to all the teams I work on. I am currently looking for my next full-time opportunity!
+Helloo! I'm Janhavi (jaan-huh-vee), here's a little about me:
+**Ideal Roles:** Data Analyst / Data Scientist / Applied ML Engineer.
+**Current Interests:** Raw Data, Fried Data, and Deconstructed Data.
+**Permanent Interests:** Mathematics, Stories, and Food.
 
 ## 👋 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/janhavi-sathe/) [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)](https://janhavi-sathe.github.io/posts)
