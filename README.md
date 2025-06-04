@@ -11,7 +11,7 @@ Helloo! I'm Janhavi (jaan-huh-vee), here's a little about me:
 ## 👋 Socials
 Check me out on other platforms: 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/janhavi-sathe/) [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)](https://janhavi-sathe.github.io/posts)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/janhavi-sathe/) [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)](https://janhavi-sathe.github.io/posts) [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://janhavisathe.substack.com/?r=22jqs4&utm_campaign=pub-share-checklist)
 
 ## 🛠️ Tech-Stack
 **Programming**  
